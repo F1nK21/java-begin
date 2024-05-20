@@ -1,2 +1,2 @@
 # java-tuto
-Java Tutorial For everyone
+Java Tutorial
